@@ -25,4 +25,11 @@ Repo xhope holds the source code the xhope.tech website.
 - Metaphor of planet Earth as a computer, life as information content
   periodically lost in mass extinction events / hard drive
   crashes. Shouldn't we have some backups?
-
+- "Let's assume for a moment that sending a tiny probe to Alpha
+  Centauri on light beams works. If that is feasible, then could we,
+  in a few years when nanofabrication is more mature, send tiny
+  nanofabricators to the stars the same way? And if that works, could
+  we build a receiver on the other end that could reconstitute a mind
+  uploaded person through whole brain emulation? Steps #1, #2, #3 to
+  space-faring species. Seems more efficient and therefore more likely
+  than Star Trekking." -- Randal Koene [https://www.facebook.com/randal.a.koene/posts/10153428461601175]
